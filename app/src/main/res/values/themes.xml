@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- BiometricPrompt uses an AppCompat fingerprint dialog on older Android versions. -->
+    <style name="Theme.Authenticator" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorAccent">#5C4DCC</item>
+    </style>
+</resources>

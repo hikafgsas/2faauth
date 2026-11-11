@@ -1,0 +1,26 @@
+# Android Studio and local machine settings
+.idea/
+*.iml
+local.properties
+
+# Gradle and Kotlin caches
+.gradle/
+.kotlin/
+**/build/
+.externalNativeBuild/
+.cxx/
+
+# Temporary files and credentials
+.work/
+backup/
+captures/
+*.log
+*.jks
+*.keystore
+keystore.properties
+.env
+.env.*
+!*.example
+~$*
+.DS_Store
+Thumbs.db
